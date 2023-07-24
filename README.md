@@ -1,4 +1,5 @@
 # Project_1
+
 WYMY
 Project 1: Exploratory Data Analysis (EDA)
 Scenario:
@@ -27,8 +28,10 @@ WTWY International
 Data set:
 MTA Metro Data (Google!)
 Taking advantage of additional data sources is a huge plus!
+
 Vehicles:
 python, numpy and pandas for data analysis and editing
 matplotlib and seaborn for data visualizations
+
 Analysis:
 Exploratory Data Analysis (EDA)
